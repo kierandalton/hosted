@@ -9,7 +9,7 @@
   <body id="body" class="bodyorange">
     <div class="topdiv">
       <h1>Collaborative web page</h1>
-      <p>Head to <a href="https://github.com/jsm8989/hosted"></a> to make pull requests for this page!</p>  
+      <p>Head <a href="https://github.com/jsm8989/hosted">here</a> to make pull requests for this page!</p>  
     </div>
 
          

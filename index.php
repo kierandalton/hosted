@@ -4,8 +4,8 @@
      <title> Collaborative page </title>
      <link rel="stylesheet" href="../my_interest.css">
      <script src="../my_interest.js"></script>
-                                                   
-  </head>
+                   
+   </head>
   <body id="body" class="bodyorange">
     <div class="topdiv">
       <h1>Collaborative web page</h1>

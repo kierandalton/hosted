@@ -1,12 +1,5 @@
-<html>
-   <head>
-     <meta charset="UTF-8"> 
-     <title> Collaborative page </title>
-     <link rel="stylesheet" href="../my_interest.css">
-     <script src="../my_interest.js"></script>
-                   
-   </head>
-  <body id="body" class="bodyorange">
+<?php echo file_get_contents("../includes/header1.html"); ?>
+
     <div class="topdiv">
       <h1>Collaborative web page</h1>
       <p>Head <a href="https://github.com/jsm8989/hosted">here</a> to make pull requests for this page!</p>  

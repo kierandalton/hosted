@@ -10,3 +10,6 @@ Method for doing this is as follows:
 - type `git pull origin master` and the changes should be merged
 - any changes to the site should be visible fairly quickly
 - note that pushing from the server to the github repo requires the PAT and my github username (jsm8989)
+
+# contributions
+Kieran: I've added a helpful guide to Wales and Whales, just in case anyone is confused.
